@@ -1,5 +1,5 @@
 <p>
-  Welcome to <a href="<%- service.url %>"><%- service.displayName %></a>!
+  Welcome to dcloud demofeed URL <a href="<%- service.url %>"><%- service.displayName %></a>!
   Now that you&apos;re registered, here are a few tips for enjoying yourself fully.
 </p>
 
